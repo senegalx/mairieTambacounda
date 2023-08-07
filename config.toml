@@ -1,5 +1,5 @@
 baseURL = "https://mairietambacounda.netlify.app/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 paginate = 6
 theme = "portio"
 title = "Portio"
