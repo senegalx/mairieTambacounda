@@ -1,5 +1,6 @@
 baseURL = "https://mairietambacounda.netlify.app/"
 languageCode = "fr-fr"
+defaultContentLanguage = "fr"
 paginate = 6
 theme = "portio"
 title = "Maire de Tambacounda"
@@ -29,8 +30,8 @@ name = "Skills"
 url = "#skills"
 weight = 6
 [[menu.main]]
-name = "Blog"
-url = "#blog"
+name = "Actualités"
+url = "#actualites"
 weight = 7
 [[menu.main]]
 name = "Contact"
@@ -56,7 +57,7 @@ url = "#"
 weight = 4
 
 [params]
-blogPageURL = "blog"
+blogPageURL = "actualites"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
@@ -66,10 +67,10 @@ googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Hôtel de ville. Tambacounda"
+email = "info@mairietambacounda.sn"
+openingHours = "Ouvert de 08h à 16h (fermeture à 12h le dimanche)"
+phone = "+(221) 33 981 19 59"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
