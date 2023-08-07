@@ -2,7 +2,7 @@ baseURL = "https://mairietambacounda.netlify.app/"
 languageCode = "fr-fr"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Maire de Tambacounda"
 # Main Menu
 [[menu.main]]
 name = "Home"
