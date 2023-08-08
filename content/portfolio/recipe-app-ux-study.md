@@ -1,8 +1,8 @@
 ---
-title: Recipe App Ux Study
+title: Parc de Niokolo Koba  
 date: 2020-08-12T18:19:35.000+06:00
 thumbnail: images/portfolio/portfolio-3.png
-service: UX Design, UX Research
+service: Il s'agit de la plus importante Paruqe Sénégal et le patrimoine mondial depuis 1981. Il occupe une superficie d'environ un million d'hectares. Les traverses trois rivières
 client: Clayton Coco
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam

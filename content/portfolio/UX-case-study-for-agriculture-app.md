@@ -1,8 +1,8 @@
 ---
-title: UX Case Study for Agriculture App
+title: Ville de Tambacounda
 date: 2020-08-12T12:13:40+00:00
 thumbnail: images/portfolio/portfolio-4.png
-service: UX Design
+service: Située au sud du Sénégal, Tambacounda trouve à plus de 500 km de Dakar. C'est la plus grande ville du Sénégal oriental, bien que très rudimentaire, faute de moyens.
 client: Jane Doe
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam

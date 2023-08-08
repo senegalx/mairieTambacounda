@@ -1,8 +1,8 @@
 ---
-title: Case Study One
+title: Bassari
 date: 2020-07-13T12:49:27.000+06:00
 thumbnail: images/portfolio/portfolio-1.png
-service: Development, UX Design
+service: Il s'agit d'un groupe ethnique qui pour échapper aux persécutions s'est installé au sommet d'une montagne...
 client: Edward Furlong
 shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
   nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
