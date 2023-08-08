@@ -1,44 +1,44 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Services Municipal
 title: >
-  ## Creative Services
+  ## Services
 
   Enjoy team diversity and increase their networks among others people in
   various fields by provided.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Démarches administratives
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Demande de matériel
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Police municipale 
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Urbanisme
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Voirie, espaces verts
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Contacter la mairie
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
