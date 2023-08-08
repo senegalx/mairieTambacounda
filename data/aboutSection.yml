@@ -1,20 +1,19 @@
 ---
 enable: true
-topTitle: About
+topTitle: Vie Municipal
 title: >
-  ## About me
+  ## Papa Banda Dièye
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Maire de la commune de Tambacounda
 content: >
-  ### I design and build ultimate things.
+  ### Le mot de bienvenue du maire
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
+  Vous avez choisi de vous établir dans la commune des Tambacounda et je souhaite
+  vous exprimer mes vœux de bienvenue dans notre commune.
+  Je vous assure de la volonté de la municipalité d’être à l’écoute de l’ensemble 
+  des habitants pour prendre en compte vos éventuelles remarques ou suggestions.
+button1Name: Lire la suite...
+button2Name: Contact
 button1Target: contact
 button2Target: contact
 image: images/about/about-img.jpg
