@@ -6,11 +6,11 @@ theme = "portio"
 title = "Maire de Tambacounda"
 # Main Menu
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "Vie Municipal"
 url = "#about"
 weight = 2
 [[menu.main]]
@@ -18,11 +18,11 @@ name = "Service"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
+name = "Tourisme"
 url = "#portfolio"
 weight = 4
 [[menu.main]]
-name = "Resume"
+name = "Projets"
 url = "#resume"
 weight = 5
 [[menu.main]]
