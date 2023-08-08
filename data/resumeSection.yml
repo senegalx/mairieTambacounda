@@ -1,15 +1,15 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Projets
 title: >
-  ## My Expertises
+  ## Tambacounda une ville moderne
 
   Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
 
 
   Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Éducation
+tab2Name: Santé
 tab1Target: education
 tab2Target: experience
 
