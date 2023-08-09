@@ -1,36 +1,24 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
+title: "Le Maire Papa Banda Dièye magnifie plus de 25 ans de coopération entre Tambacounda et La Roche-sur-Yon"
+date: 2023-03-06T12:49:27+06:00
 featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
+postImage: images/single-blog/feature-image3.jpg
 tags: website
 categories: blog
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+En France dans le cadre du Salon International de l’Agriculture (SIA) de Paris, le Premier magistrat de la ville de Tambacounda, M. Papa Banda Dièye a profité de son séjour pour rendre une visite de courtoisie à son collègue de La Roche-sur-Yon.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+---
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+Cela fait plus de 25 ans que les deux villes de Tambacounda et de La Roche-sur-Yon coopèrent ensemble au service de projets d’intérêt collectif.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Située en plein cœur du Sénégal oriental, Tambacounda est une ville de 160 000 habitants.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+Depuis 1997, elle est liée à La Roche-sur-Yon dans le cadre d’une coopération décentralisée.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+De cette collaboration ont émergé de nombreux projets en particulier autour de la gestion des déchets, de la formation des artisans et plus récemment de l’état-civil.
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+Ce qui fait dire au maire de Tambacounda, Papa Banda Dieye : « Aujourd’hui, quand on vient à la mairie chercher un document d’état-civil, on vous le donne en moins de deux minutes. Nous sommes classés deuxième au niveau national. Et c’est grâce à La Roche-sur-Yon. »
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-
-{{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Voir ces quelques images, ci-dessous
